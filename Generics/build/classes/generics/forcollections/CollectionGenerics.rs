@@ -1,0 +1,3 @@
+generics.forcollections.Animal
+generics.forcollections.Dog
+generics.forcollections.CollectionGenerics

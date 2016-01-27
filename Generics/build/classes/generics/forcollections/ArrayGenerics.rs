@@ -1,0 +1,4 @@
+generics.forcollections.ArrayGenerics
+generics.forcollections.Animal2
+generics.forcollections.Dog2
+generics.forcollections.Cat2

@@ -1,0 +1,4 @@
+generics.forcollections.Dog3
+generics.forcollections.Animal3
+generics.forcollections.GenericsWildcardWithExtends
+generics.forcollections.Cat3

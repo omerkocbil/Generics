@@ -1,0 +1,4 @@
+generics.forcollections.Animal4
+generics.forcollections.Dog4
+generics.forcollections.Kangal4
+generics.forcollections.GenericsWildcardWithSuper

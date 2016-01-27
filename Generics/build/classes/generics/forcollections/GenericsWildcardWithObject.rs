@@ -1,0 +1,2 @@
+generics.forcollections.Car6
+generics.forcollections.GenericsWildcardWithObject
